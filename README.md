@@ -1,4 +1,3 @@
-# CS1002-project
-FAST NUCES || CS1002 Programming Fundamentals || Semester 1 Project
+CS1002 Programming Fundamentals Project in C
 
 Sports Academy Management System
